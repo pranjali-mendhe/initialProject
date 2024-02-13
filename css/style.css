@@ -1,0 +1,15 @@
+/* #heading{
+    color: brown;
+}
+p{
+    color: blue;
+} */
+
+.heading{
+    color: brown;
+}
+.heading-four{
+    width: 100px;
+    height: 200px;
+    background-color: yellow;
+}
